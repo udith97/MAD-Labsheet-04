@@ -9,4 +9,5 @@
     <string name="reTypePassword">Re-Type Password</string>
     <string name="register">Register</string>
     <string name="cancel">Cancel</string>
+    <string name="signup">SIGN UP</string>
 </resources>
