@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Labsheet04</string>
+    <string name="channel_name">CSN</string>
+    <string name="channel_description">Sports</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="telephone">Telephone</string>
+    <string name="password">Password</string>
+    <string name="reTypePassword">Re-Type Password</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
 </resources>
